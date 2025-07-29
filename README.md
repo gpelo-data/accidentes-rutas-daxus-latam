@@ -6,6 +6,12 @@ Analizo los accidentes en carreteras federales entre 2018 y 2020 para identifica
 
 ---
 
+## 🖼️ Vista previa del dashboard
+
+![Dashboard Preview](./img/dashboard.jpg)
+
+---
+
 ## Datos principales
 
 - 🚧 Total de accidentes analizados: **60,531**  
