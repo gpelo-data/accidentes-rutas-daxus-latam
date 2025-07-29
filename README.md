@@ -57,9 +57,7 @@ Medidas realizadas:
 
 ## Contacto
 
-Para más información o consultas, podés contactarme a través de mis redes o por email (opcional).
+Para más información sobre el proyecto o para conectar:
 
-(Linkedin)[https://www.linkedin.com/in/gpelo-data/]
-
-Correo: gaston.pelo.contacto@gmail.com
----
+- [LinkedIn](https://www.linkedin.com/in/gpelo-data/)
+- 📧 Correo: gaston.pelo.contacto@gmail.com
